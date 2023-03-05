@@ -1,0 +1,31 @@
+h2{ 
+    font-size: 25px;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:white;
+    text-align: center; 
+    text-decoration: underline;
+  }
+  
+  body{
+    background-image: url("C:/Users/Sowmiya/Downloads/bgsrf1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ table tr td{ 
+ text-align: left; 
+  }
+
+  table{ 
+    margin-left:230px;
+    color:black; 
+    font-size: 11px; 
+    font-style: normal;
+    font-weight: bold; 
+    background-color: white; 
+    border-collapse: collapse; 
+    border: 2px solid black;
+  }
+  table.inner{
+    border: 0px;
+  }
